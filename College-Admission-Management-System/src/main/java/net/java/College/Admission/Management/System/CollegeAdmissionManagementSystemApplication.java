@@ -1,0 +1,13 @@
+package net.java.College.Admission.Management.System;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CollegeAdmissionManagementSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CollegeAdmissionManagementSystemApplication.class, args);
+	}
+
+}
